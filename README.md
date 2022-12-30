@@ -23,5 +23,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![kedi](kedi.jpg)
+![kedi](kedi.jpg)  
+
 https://app.patika.dev/etoptas
